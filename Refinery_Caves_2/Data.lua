@@ -1,6 +1,0 @@
-return {
-  {
-    'D98?Y&7689D1&58VC!_YAtHj=M:_$30jtL#89Bey2671Dc;NaJx~58{zk1RfC723067*567x!6991925p{409212I:Fm82x~^BYh:F.,oDeUVU8pDkfoP|M+BcHnD9!e1<2193i|jEGWiz7905/Y>DOML/mZh1$50e66766046,y?jG3664k+T&0r5UJ', 
-    ''
-  }
-}
