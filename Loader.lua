@@ -10,7 +10,7 @@ elseif ID == 12196278347 then
 
 else
 
-  warn("v v v v v v v v v v v v v v v v v v v v"
+  warn("v v v v v v v v v v v v v v v v v v v v")
   warn("[eternal]: This game is not supported.")
   warn("ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ")
 
