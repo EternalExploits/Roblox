@@ -10,6 +10,8 @@ elseif ID == 12196278347 then
 
 else
 
-  print("This game is not supported.")
+  warn("v v v v v v v v v v v v v v v v v v v v"
+  warn("[eternal]: This game is not supported.")
+  warn("ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ ʌ")
 
 end
