@@ -20,9 +20,9 @@ https://discord.gg/Swj5Gfa5us
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 <=>-<=>-<=>-<=>-<=>-<=>-<=>-<=>-<=>-<=>-<=>-<=>-<=>-<=>-]=]--
 
-if game.PlaceId == 292439477 then
+if game.PlaceId == 292439477 and setfflag and getfflag then
       if not string.find(string.lower(getfflag("DebugRunParallelLuaOnMainThread")), 'true') then
-           setfflag("DebugRunParallelLuaOnMainThread", "True")
+            setfflag("DebugRunParallelLuaOnMainThread", "True")
             return game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId)
       end
 end
